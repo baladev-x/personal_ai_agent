@@ -75,9 +75,6 @@ function App() {
       <header className="header">
         <div>
           <h1 className="title">Personal AI Agent</h1>
-          <p className="subtitle">
-            Multi-Agent AI • Ollama + Mistral
-          </p>
         </div>
 
         <button
